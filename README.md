@@ -7,10 +7,15 @@ It is designed to support farmers and agricultural product consumers, making buy
 
 ## Features
 -User Authentication (Firebase)
+
 -Product Listing, Search & Filter
+
 -Cart & Order Placement
+
 -Separate modules for Buyer and Seller
+
 -Real-time database and cloud storage
+
 -Responsive UI/UX for mobile devices
 
 
