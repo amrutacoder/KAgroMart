@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176591778553",
+    "project_id": "kagromart-ebab6",
+    "storage_bucket": "kagromart-ebab6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176591778553:android:49cf7bba0f4438d802a828",
+        "android_client_info": {
+          "package_name": "com.example.kagromart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACiyHmtP-ATOuwM0RsyKDysC99zCibhLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176591778553:android:9b1b703c63cd4f1f02a828",
+        "android_client_info": {
+          "package_name": "com.example.kagromartt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACiyHmtP-ATOuwM0RsyKDysC99zCibhLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
